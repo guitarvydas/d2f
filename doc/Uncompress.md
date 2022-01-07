@@ -56,7 +56,7 @@ number = digit+
 ```
 ## Reading
 
-![[drawio-grammar 1.svg]]
+![[drawio-grammar 2.svg]]
 
 A `.drawio` file has the pattern given by the grammar `AppDiagrsEncodedNet`.
 
