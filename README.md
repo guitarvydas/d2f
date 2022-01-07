@@ -17,3 +17,5 @@ fact(relation,subject,object).
 ```
 
 see run.bash for example usage of d2f.bash
+
+See [[D2F]] for more details.
