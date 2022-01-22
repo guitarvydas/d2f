@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "doc/Uncompress.md",
+            "file": "D2F.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doc/Uncompress.md",
+                "file": "D2F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,15 @@
   },
   "active": "21389d26cf52fa7e",
   "lastOpenFiles": [
-    "doc/Uncompress.md",
-    "doc/D2F.md",
+    "D2F.md",
+    "Cleanup.md",
+    "Pass 4 Convert to Facts.md",
+    "Pass 3 Normalize Styles.md",
+    "Pass 2 Extract Diagrams.md",
+    "Pass 1 Uncompress.md",
     "README.md",
-    "doc/Gear-icon.png",
-    "doc/helloworld.mp4"
+    "doc/D2F.md",
+    "doc/Pass 1 Uncompress.md",
+    "doc/gears.jpg"
   ]
 }

@@ -54,8 +54,9 @@ PROLOG requires that triples be sorted contiguously by name.
 
  # Transpilation Steps
 
-[[Uncompress]]
-[[Extract Diagrams]]
-[[Normalize Styles]]
-[[Convert to Facts]]
+[[Pass 1 Uncompress]]
+[[Pass 2 Extract Diagrams]]
+[[Pass 3 Normalize Styles]]
+[[Pass 4 Convert to Facts]]
+[[Cleanup]]
  

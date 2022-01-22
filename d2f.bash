@@ -18,7 +18,6 @@ $prep '.' '$' $d2fdir/drawio.ohm $d2fdir/drawio.glue --input=$name --stop=1 --su
      | $sort \
      | $sed -E -e '/^[ \t]*$/d'
 
-
 # comment: using $... for EVERY command and file reduces dependencies
 #  sed and sort assume builtin versions, but we might specify full pathnames for them, too
 
